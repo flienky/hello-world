@@ -6,4 +6,8 @@
  * Time: 11:10 AM
  */
 
-mcrypt_enc_self_test()
+echo 'dsadasd';
+
+
+
+?>
